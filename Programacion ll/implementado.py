@@ -90,3 +90,7 @@ def menu():
 
 # Iniciar el programa
 menu()
+
+
+#Este programa facilita la gestión de estudiantes y sus calificaciones en una escuela, eliminando la necesidad de llevar un registro manual y asegurando
+un cálculo correcto y transparente del rendimiento académico
